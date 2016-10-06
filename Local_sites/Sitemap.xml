@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	<url>
+		<loc>http://www.almostasong.net/</loc>
+		<lastmod>2011-01-05</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>1.0</priority>
+	</url>
+	<url>
+		<loc>http://www.almostasong.net/index.html</loc>
+		<lastmod>2011-01-05</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.8</priority>
+	</url>
+	<url>
+		<loc>http://www.almostasong.net/recordings2.html</loc>
+		<lastmod>2011-01-05</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.8</priority>
+	</url>
+		<url>
+		<loc>http://www.almostasong.net/aboutUs.html</loc>
+		<lastmod>2011-01-05</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.8</priority>
+	</url>
+		<url>
+		<loc>http://www.almostasong.net/contact.html</loc>
+		<lastmod>2011-01-05</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.8</priority>
+	</url>
+	
+	<url>
+		<loc>http://www.almostasong.net/members.html</loc>
+		<lastmod>2011-01-05</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.8</priority>
+	</url>
+	
+	<url>
+		<loc>http://www.almostasong.net/videos.html</loc>
+		<lastmod>2011-01-05</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.8</priority>
+	</url>
+	<url>
+		<loc>http://www.almostasong.net/smokejaguar.html</loc>
+		<lastmod>2011-01-05</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.8</priority>
+	</url>
+	
+	<url>
+		<loc>http://www.almostasong.net/smokejaguar.html</loc>
+		<lastmod>2011-01-05</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>0.8</priority>
+	</url>
+	
+	<url>
+		<loc>http://www.almostasong.net/cal/calendar.html</loc>
+		<lastmod>2011-01-05</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>0.8</priority>
+	</url>
+	
+	<url>
+		<loc>http://www.almostasong.net/videos.html</loc>
+		<lastmod>2011-01-05</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>0.7</priority>
+	</url>
+	<url>
+		<loc>http://www.almostasong.net/pictures.html</loc>
+		<lastmod>2011-01-05</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>0.8</priority>
+	</url>
+	
+</urlset>

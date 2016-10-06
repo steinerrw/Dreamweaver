@@ -1,0 +1,45 @@
+@charset "utf-8";
+/* CSS Document */
+
+a.arrow{
+	width:23px;
+	height:20px;
+	border:none;
+	display:inline-block; 
+	text-decoration: none;
+    background: url(images/arrow2.gif) top no-repeat;
+	background-position: 0px 0px;
+	margin-left:8px;
+	margin-top:5px;
+	margin-right:8px;
+}
+
+a.arrow:hover{ background-position: -23px 0px;}
+
+
+.main{
+	display:inline-block; width:690px; float:left; padding-top:5px;padding-right:5px;
+	text-align:right}
+
+
+.gApps{
+	 width:650px; display:inline-block; margin-top:15px;
+}
+.icons{
+	display:inline-block; width:50px; float:left;}
+	
+.leftColumn{
+		display:inline-block; 
+		width:455px; 
+		margin-left:35px;  
+		float:left; 
+		margin-top:5px;
+		margin-bottom:15px; 
+		margin-right:53px;}
+		
+.rightColumn{
+	display:inline-block; 
+	width:170px; 
+	margin-left:5px;  
+	margin-bottom:15px; 
+	float:left;}
